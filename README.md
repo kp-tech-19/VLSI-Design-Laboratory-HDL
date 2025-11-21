@@ -1,7 +1,5 @@
 # VLSI-Design-Laboratory-HDL
 
-## VLSI Design Laboratory - HDL & FPGA Experiments
-
 This repository contains **Hardware Description Language (HDL) designs** and **FPGA implementation projects** for digital VLSI experiments.  
 It is intended for students to learn digital system design using **Verilog/VHDL** and implement them on **FPGA boards**.
 
