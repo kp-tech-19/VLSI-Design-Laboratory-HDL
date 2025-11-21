@@ -5,7 +5,6 @@
 This repository contains **Hardware Description Language (HDL) designs** and **FPGA implementation projects** for digital VLSI experiments.  
 It is intended for students to learn digital system design using **Verilog/VHDL** and implement them on **FPGA boards**.
 
----
 
 ## Experiments
 
@@ -20,7 +19,6 @@ It is intended for students to learn digital system design using **Verilog/VHDL*
 7. Moore Finite State Machine (FSM)  
 8. Mealy Finite State Machine (FSM)  
 
----
 
 ## Getting Started
 
@@ -30,14 +28,12 @@ It is intended for students to learn digital system design using **Verilog/VHDL*
 4. Simulate the HDL design to verify functionality.  
 5. Implement and test on the **FPGA Trainer Kit**.
 
----
 
 ## Requirements
 
 - Xilinx Vivado  
 - FPGA Trainer Kit  
 
----
 
 ## Author
 
