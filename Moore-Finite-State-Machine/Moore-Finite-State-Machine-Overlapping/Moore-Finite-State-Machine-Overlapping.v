@@ -1,3 +1,4 @@
+//Detection of 1011 sequence
 module MOORE_OVER_1011(
     input in, clk, rst,
     output reg out
