@@ -30,8 +30,8 @@ It is intended for students to learn digital system design using **Verilog/VHDL*
 ## Requirements
 
 - Xilinx Vivado  
-- FPGA Trainer Kit  
-
+- Nexys A7 FPGA Trainer Kit (Artix-7 based)
+- XDC constraint file for Nexys A7
 
 ## Author
 
