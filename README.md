@@ -33,8 +33,3 @@ It is intended for students to learn digital system design using **Verilog/VHDL*
 - Nexys A7-100T FPGA Trainer Kit (Artix-7 XC7A100T)
 - Nexys A7-100T Master XDC Constraint File
 
-## Author
-
-**Priyadharshini K**  
-B.E. Electronics and Communication Engineering  
-SSN College of Engineering, Chennai
