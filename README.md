@@ -20,7 +20,7 @@ It is intended for students to learn digital system design using **Verilog/VHDL*
 
 ## Getting Started
 
-1. Install **Xilinx Vivado / Altera Quartus** or equivalent FPGA synthesis tool.  
+1. Install **Xilinx Vivado.  
 2. Clone or download this repository.  
 3. Open the corresponding experiment folder in the FPGA software.  
 4. Simulate the HDL design to verify functionality.  
